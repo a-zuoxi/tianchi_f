@@ -1,0 +1,205 @@
+DEBUG:matplotlib:CACHEDIR=/home/unknown/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/unknown/.cache/matplotlib/fontlist-v300.json
+DEBUG:matplotlib.pyplot:Loaded backend qt5agg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend tkagg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend agg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend agg version unknown.
+cuda:0
+length train loader:  125
+INFO:root:
+epoch 0:
+clean accuracy: 0.8500000238418579
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 2
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:current success attack is 21
+INFO:root:
+epoch 1:
+clean accuracy: 0.9750000238418579
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 2
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:current success attack is 32
+INFO:root:
+epoch 2:
+clean accuracy: 0.949999988079071
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:current success attack is 44
+INFO:root:
+epoch 3:
+clean accuracy: 0.949999988079071
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:current success attack is 55
+INFO:root:
+epoch 4:
+clean accuracy: 0.824999988079071
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = False, gen_no = 4
+INFO:root:break isAttackSuccess = True, gen_no = 1
+INFO:root:break isAttackSuccess = True, gen_no = 1
+176.jpg attack success

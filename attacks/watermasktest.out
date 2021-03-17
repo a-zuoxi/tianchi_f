@@ -1,0 +1,65 @@
+DEBUG:matplotlib:CACHEDIR=/home/f/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/f/.cache/matplotlib/fontlist-v300.json
+DEBUG:matplotlib.pyplot:Loaded backend qt5agg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend qt5agg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend Qt5Agg version unknown.
+cuda:0
+length train loader:  97
+INFO:root:
+epoch 0:
+clean accuracy: 0.8199999928474426
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 62 6482
+INFO:root:177.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:178.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:179.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:180.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:181.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:182.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:183.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:184.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:185.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:186.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:187.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:188.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:189.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:190.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:191.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:192.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:193.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:194.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:195.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:196.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:197.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:198.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:199.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:200.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:201.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:202.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:203.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:204.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:205.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:206.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:207.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:208.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:209.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:210.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:211.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:212.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:213.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:214.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:215.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:216.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:217.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:218.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:219.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:220.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:221.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:222.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:223.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:224.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:225.jpg : attack failed : [isAttackSuccess = False, gen_no = 4]
+INFO:root:226.jpg : attack finish [isAttackSuccess = True, gen_no = 1]
+INFO:root:current success attack is 29
+INFO:root:total succes is 29/100
